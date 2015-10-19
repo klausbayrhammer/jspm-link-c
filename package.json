@@ -1,0 +1,7 @@
+{
+  "name": "jspm-link-c",
+  "version": "0.0.1",
+  "jspm": {
+    "registry": "github"
+  }
+}
